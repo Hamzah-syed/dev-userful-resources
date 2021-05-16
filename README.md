@@ -1,2 +1,3 @@
-# dev-userful-resources
-developers useful resources 
+# Dev Useful Resources
+1- Check Bundle Size of npm packages
+https://bundlephobia.com/
